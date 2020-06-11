@@ -19,3 +19,6 @@ class Test_Developer_headlines:
         # 退出开发者头条
         self.dev_headlines_page.end_developer()
         self.dev_headlines_page.end_dev()
+        
+        # 点击发现
+        self.dev_headlines_page.click_found()
