@@ -17,5 +17,5 @@ class Test_Developer_headlines:
         # 输入文字
         self.dev_headlines_page.input_search_text("CSDN")
         # 退出开发者头条
-        self.dev_headlines_page.end_developer()
-        self.dev_headlines_page.end_dev()
+    #    self.dev_headlines_page.end_developer()
+    #    self.dev_headlines_page.end_dev()
